@@ -1,5 +1,7 @@
 # redmond-grep
 
+![grep CI](https://github.com/<YOUR_USERNAME>/<YOUR_REPO>/actions/workflows/ci.yml/badge.svg)
+
 A simple `grep` clone written in C supporting:
 
 - `-i` ignore case
