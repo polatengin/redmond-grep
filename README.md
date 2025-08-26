@@ -1,6 +1,6 @@
 # redmond-grep
 
-![grep CI](https://github.com/<YOUR_USERNAME>/<YOUR_REPO>/actions/workflows/ci.yml/badge.svg)
+![grep CI](https://github.com/polatengin/redmond-grep/actions/workflows/ci.yml/badge.svg)
 
 A simple `grep` clone written in C supporting:
 
